@@ -1,1 +1,1 @@
-# prediccion-enfermedades
+# Proyecto2
